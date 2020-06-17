@@ -1,0 +1,226 @@
+Free, fast, detailed and entirely offline maps with turn-by-turn navigation 每 trusted by over 100 million travelers worldwide.
+
+OFFLINE MAPS
+Save mobile data, no internet is required.
+
+FREE FOREVER
+All maps inside and all features are free. Always were and always will be.
+
+NAVIGATION
+Use driving, walking and cycle navigation anywhere in the world.
+
+GUIDES AND ITINERARIES
+Plan your trip and never miss an interesting place with our custom itineraries. We have partnered with the best travel content creators and made routes and itineraries for popular destinations. They include POI on the map and can be downloaded for offline use
+
+INCREDIBLY DETAILED
+Directions to points of interest (POI), hiking trails and places missing from other maps.
+
+UP-TO-DATE
+Maps are updated by millions of OpenStreetMap contributors daily. OSM is an open-source alternative to popular map services.
+
+FAST AND RELIABLE
+Offline search, GPS navigation along with optimized maps to effectively save memory space.
+
+BOOKMARKS
+Save locations you love and share them with your friends.
+
+AVAILABLE WORLDWIDE
+Essential for home and travel. Paris, France? Check. Amsterdam, Netherlands? Check. Barcelona, Spain? Check. New York, Chicago, Florida, Las Vegas, Nevada, Seattle, San Francisco, California, USA? Check! Rome, Italy? Check. London, UK? Check.
+
+TRAFFIC DATA
+New online city traffic maps. Check out updates on traffic info and fastest driving routes in 36 countries!
+
+AND MORE!
+每 Search through different categories e.g. restaurants, cafes, tourist attractions, hotels, ATMs and public transport (metro, bus＃)
+每 Make hotel bookings via Booking.com directly from the app
+每 Share your location via text message or social media
+每 When cycling or walking, the app shows whether the way is uphill or downhill
+
+Continued use of GPS running in the background can dramatically decrease battery life.
+
+If you have any questions, visit our Help Center: support.maps.me.
+If you are unable to find the answer to your question, contact us at: android@maps.me.
+Follow us on FB: http://www.facebook.com/mapswithme | Twitter: @MAPS_ME
+
+Navigation app that combines the best of offline and online features to create the ultimate navigation experience. Compact maps of over 200 countries were specially optimized to take up less space on your phone. Follow accurate voice directions, avoid traffic jams and get speed limit & speed camera alerts. Regular map updates.
+
+NAVIGATE ANYWHERE, EVEN WITHOUT AN INTERNET CONNECTION 
+? Offline maps of all countries in the world, from TomTom and other providers 
+? Free map updates multiple times per year
+? Voice-guided GPS navigation with precise directions and spoken street names
+? Millions of interesting Places (POI) 
+? Real-time route sharing lets you share your estimated time of arrival & current position on a map*
+? Pedestrian GPS navigation with walking directions and tourist attractions (POI) 
+
+ESCAPE THE TRAFFIC
+? Avoid traffic jams with the most accurate real-time traffic information with data collected from more than 500 million users worldwide*
+
+STAY SAFE
+? Advanced safety features make driving in unfamiliar territories easier
+? Speed limit warnings show you the current speed limit and the upcoming speed limit changes 
+? Dynamic Lane Assistant guides you into the correct lane 
+? Head-up Display (HUD) projects navigation onto the windshield of your car, making driving at night safer
+? Dashcam records the road ahead and automatically saves video in case of an accident 
+? Real View Navigation is an augmented reality feature for even better and safer driving experience
+
+SAVE MONEY ALONG YOUR ROUTE
+? Park easily with parking place suggestions and live info about prices and availability*
+? Set your fuel type and fill up for the best price with live information about fuel prices*
+? Avoid speeding tickets with Speed camera warnings* 
+? Save money on roaming charges with offline maps 
+
+
+
+*Please note that this feature requires internet connection. 
+
+Note: Sharing videos from Dashcam is forbidden by law in these countries: Austria, Belgium, Luxembourg, Switzerland, Slovakia, Spain.
+
+By installing, copying or using all or any portion of this software you accept all the terms and conditions of this agreement: https://gps-navigation-maps.com/eula
+
+Always know what＊s happening on the road with Waze. Even if you know the way, Waze tells you about traffic, construction, police, crashes, and more in real-time. If traffic is bad on your route, Waze will change it to save you time. 
+
+Why Waze?
+? See what＊s happening - Alerts about traffic, police, hazards and more on your drive
+? Get there faster - Instant routing changes to avoid traffic and save you time
+? Play music & more - listen to your favorite apps for music, podcasts & more right from Waze
+? Know when you＊ll arrive - your ETA is based on live traffic data 
+? Pay less for gas - find the cheapest gas along your route
+? Drive with Android Auto - use Waze on your car＊s display
+? Always find the way - choose from a variety of voices to guide you while you drive 
+
+Be prepared, drive with Waze!
+
+OsmAnd is an offline navigation application with access to the free, worldwide, and high-quality offline maps. 
+
+
+Enjoy voice and visual offline navigation, viewing points of interest, creating and managing GPX tracks, using contour lines visualization and altitude info (through plugin), a choice between car navigation, cycle navigation or directions in the pedestrian mode, OSM editing and much more. Just download your free maps and get the following:
+
+GPS navigation
+? You can choose between offline (no roaming charges when you are abroad) or online (faster) mode
+? Turn-by-turn voice guidance leads you along the way (recorded and synthesized voices)
+? Driving routes get rebuilt whenever you deviate from them
+? Lane guidance, street names, and estimated time of arrival will help along the way
+? To make your trip safer, day/night mode switches automatically
+? You can choose to show speed limit, and get reminders if you exceed it
+? You can searches destinations by address, by type (e.g.: parking, restaurant, hotel, gas station), or by geographical coordinates
+? Different modes for cycling routes
+? You can record your own or upload a GPX track and follow it using GPS navigation
+
+Map
+? Displays POIs (points of interest) around you
+? Offline search helps you find the places of interest by opening hours, payment method and other parameters
+? Adjusts the map to your direction of motion (or compass)
+? Share your location so that your friends can find you
+? Shows bicycle routes, hiking paths, and other types of roads
+? Allows you to choose how to display names on the map: in English, local, or phonetic spelling
+? Displays specialized online tiles, satellite view (from Bing), different overlays like touring/navigation GPX tracks and additional map layers
+Nautical Maps
+? Information about sea objects and a contour map of sea depth. Basically convenient sea maps you can use without the internet.
+
+
+Skiing
+OsmAnd ski maps plugin enables you to see ski tracks with the level of complexity and some additional information, like the location of lifts and other facilities.
+
+OpenStreetMap Data
+? High-quality information from the best collaborative projects of the world
+? OSM data available per country or region
+? Compact offline vector maps updated at least once a month 
+? Choice between complete region data or just road network (Example: All of Japan is 700 MB or 200 MB for the road network only)
+
+Cycling
+? GPS navigation in cycling mode builds your route using cycling paths 
+? You can see your speed and altitude
+? GPX recording option enables you to record your trip and share it
+? Via additional plugin you can enable displaying contour lines and hill-shading
+
+Walking, hiking, city tour
+? The map shows you walking and hiking paths
+? Public transport stops (bus, tram, train), including line names, help to navigate in a new city
+? GPS pedestrian navigation mode builds your route using walking paths
+? You can upload and follow a GPX route or record and share your own hiking routes
+
+Contribute to OSM
+? Report data bugs
+? Upload GPX tracks to OSM directly from the app
+? Add POIs and directly upload them to OSM (or later if offline)
+
+OsmAnd is open-source and actively being developed. Everyone can contribute to the application by reporting bugs, improving translations or coding new features. The project is in a lively state of continuous improvement by all these forms of developer and user interaction. The project progress also relies on financial contributions to fund coding and testing of new functionalities. 
+
+Approximate map coverage and quality:
+? Western Europe: ****
+? Eastern Europe: ***
+? Russia: ***
+? North America: ***
+? South America: **
+? Asia: **
+? Japan & Korea: ***
+? Middle East: **
+? Africa: **
+? Antarctica: *
+
+Most countries around the globe are available for download!
+Get a reliable navigator in your country - be it France, Germany, Mexico, UK, Spain, Netherlands, USA, Russia, Brazil or any other.
+
+Yandex.Navigator helps drivers plot the optimal route to their destination. The app takes traffic jams, accidents, road works, and other road events into account when plotting your route. Yandex.Navigator will present you with up to three variants of your journey, starting with the fastest. If your selected journey takes you over toll roads, the app will warn you about this in advance.
+
+Yandex. Navigator uses voice prompts to guide you along your way, and displays your route on your device＊s screen. Additionally, you can always see how many minutes and kilometers you have to go.
+You can use your voice to interact with Yandex.Navigator so that you don't have to take your hands off the wheel. Just say "Hey, Yandex" and the app will start listening for your commands. For example, "Hey, Yandex, let's go to 1 Lesnaya Street" or "Hey, Yandex, take me to Domodedovo Airport". You can also let Navigator know about road events you encounter (such as "Hey, Yandex, there is an accident in the right lane") or search for locations on the map (by simply saying "Hey, Yandex, Red Square").
+Save time by choosing recent destinations from your history. Look through your recent destinations and favorites from any of your devices〞they are saved in the cloud and available when and where you need them.
+Yandex.Navigator will guide you to your destinations in Russia, Belarus, Kazakhstan, Ukraine, and Turkey.
+
+The app suggests enabling the Yandex search widget for the notification panel.
+
+* Experience the completely new NAVER Map.
+
+?[Key features]
+- Map home launcher
+Use the launcher to get public transit, navigation, and nearby info right on the home screen.
+
+- Simplified search
+Search locations, buses, subway, and more in a comprehensive search bar.
+
+- Explore
+Search and explore nearby restaurants, cafes, recommendations and more.
+
+- Navigation
+Fast and accurate navigation with real-time traffic info and optimized usability for any driving condition.
+
+- Vector map
+360? rotation-enabled vector map with 3D view of key landmarks via tilting. 
+
+- Public transit time calculator?
+Set your departure date and time to view the best route and arrival time.
+
+- Panorama
+Seamless street and aerial views provided for location search and route planning.
+
+- Favorites
+Pin and save travel plans, restaurants, and other points of interest in folders and view them on the map.
+
+- Instant search
+View useful info about your query, such as opening/closing times for supermarkets while you search. 
+
+- Language
+Korean/English/Japanese/Chinese maps and English navigation provided.
+
+
+*Find out more tips on how to use NAVER Maps
+
+- NAVER Maps customer service (http://me2.do/F7OPgXYJ)
+- Customer service:1588-3820
+
+----
+
+*User confirmation for NAVER Map
+Enabling the below privacy settings is recommended :
+
+- Microphone: enable voice search 
+- Location services: track your location during route planning and navigation
+- Phone: make direct phone calls to any establishment
+- Storage space: save your search history for enhanced services
+- Address book: use NAVER＊s easy log-in service
+- Camera: take photos and report missing or wrong information
+
+----
+
+* Requires Android 6.0 or later. To expand Android coverage in the future.
